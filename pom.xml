@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hsks</groupId>
-    <artifactId>rembotate</artifactId>
+    <artifactId>prisum</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>rembotate</name>
+    <name>prisum</name>
     <description>Reminder bot, your mate</description>
 
     <parent>

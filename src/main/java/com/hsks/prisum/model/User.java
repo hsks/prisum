@@ -1,7 +1,4 @@
-package com.hsks.rembotate.model;
-
-import jdk.nashorn.internal.objects.annotations.Getter;
-import jdk.nashorn.internal.objects.annotations.Setter;
+package com.hsks.prisum.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
